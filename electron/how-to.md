@@ -1,0 +1,2 @@
+- call `npm start` to run the app
+- call `npm run make` to create the distributable
