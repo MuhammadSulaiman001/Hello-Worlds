@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World(s)!
 
-- just following getting-started docs!
-- each folder has 'how-to.md' file, where you can find the command you can use to start the app
+- Whenever you want to learn some tech, check its 'getting started' docs!
+- Each folder has `README.md` file, where you can find the command you can use to start the app.
