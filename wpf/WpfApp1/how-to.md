@@ -1,1 +1,0 @@
-- run `dotnet run --project .\WpfApp1\WpfApp1.csproj` to start the application
