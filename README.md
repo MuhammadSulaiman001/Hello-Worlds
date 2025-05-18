@@ -1,3 +1,4 @@
 ## Hello World!
 
-- just follow getting-started docs
+- just following getting-started docs!
+- each folder has 'how-to.md' file, where you can find the command you can use to start the app
