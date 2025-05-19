@@ -1,0 +1,2 @@
+- install deps: `pip install --upgrade keras` & `pip install tensorflow`
+- run `python .\mnist_convnet.py`
