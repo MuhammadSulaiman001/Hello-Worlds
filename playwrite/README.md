@@ -1,0 +1,2 @@
+- run `npx playwright test` to run the tests
+- run `npx playwright show-report` to show test report
