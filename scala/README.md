@@ -1,0 +1,1 @@
+- run `scala run hello.scala`
