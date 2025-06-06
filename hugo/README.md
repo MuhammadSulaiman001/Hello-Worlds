@@ -1,0 +1,2 @@
+- make sure hugo is installed (see docs, `winget install Hugo.Hugo.Extended`)
+- run `hugo server` # or `hugo server -D` 
