@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@fluentui/react-components": "^9.64.1",
     "parcel": "^2.15.2"
   }
 }
