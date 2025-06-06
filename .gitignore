@@ -401,3 +401,4 @@ out/
 coverage/
 .scala-build/
 .parcel-cache/
+site/
