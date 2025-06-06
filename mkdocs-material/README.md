@@ -1,0 +1,1 @@
+- run `mkdocs serve`
