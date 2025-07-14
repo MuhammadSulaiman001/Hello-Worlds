@@ -1,3 +1,4 @@
+- run `npm install` to install the dependencies
 - run `npm run start` to start the server
 - open http://localhost:3000/ to see greeting!
 - check the scripts in `package.json`, you can run tests using `npm run tests` or `npm run test:e2e`

@@ -1,3 +1,4 @@
+- run `npm install` to install the dependencies
 - run `npm run start` to start the app
 - check the terminal, you'll have localhost link
 - check the terminal, pressing 'a' will download/install 'Expo Go' app on the emulator.

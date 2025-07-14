@@ -1,2 +1,3 @@
+- call `npm install` to install the dependencies
 - call `npm run start` to run the app
 - call `npm run make` to create the distributable

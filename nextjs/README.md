@@ -1,2 +1,3 @@
+- run `npm install` to install the dependencies
 - run `npm run dev` to start the server
 - open http://localhost:3000 in the browser

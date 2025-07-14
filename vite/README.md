@@ -1,1 +1,2 @@
+- run `npm install` to install the dependencies
 - run`npm run dev` to start the app
